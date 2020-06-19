@@ -1,0 +1,10 @@
+C:\Users\adminfoco\Desktop\Manage_files\Manage_Files\Manage_Files\bin\Debug\Manage_Files.exe.config
+C:\Users\adminfoco\Desktop\Manage_files\Manage_Files\Manage_Files\bin\Debug\Manage_Files.exe
+C:\Users\adminfoco\Desktop\Manage_files\Manage_Files\Manage_Files\bin\Debug\Manage_Files.pdb
+C:\Users\adminfoco\Desktop\Manage_files\Manage_Files\Manage_Files\obj\Debug\Manage_Files.csprojAssemblyReference.cache
+C:\Users\adminfoco\Desktop\Manage_files\Manage_Files\Manage_Files\obj\Debug\Manage_Files.Form1.resources
+C:\Users\adminfoco\Desktop\Manage_files\Manage_Files\Manage_Files\obj\Debug\Manage_Files.Properties.Resources.resources
+C:\Users\adminfoco\Desktop\Manage_files\Manage_Files\Manage_Files\obj\Debug\Manage_Files.csproj.GenerateResource.cache
+C:\Users\adminfoco\Desktop\Manage_files\Manage_Files\Manage_Files\obj\Debug\Manage_Files.csproj.CoreCompileInputs.cache
+C:\Users\adminfoco\Desktop\Manage_files\Manage_Files\Manage_Files\obj\Debug\Manage_Files.exe
+C:\Users\adminfoco\Desktop\Manage_files\Manage_Files\Manage_Files\obj\Debug\Manage_Files.pdb
